@@ -3,6 +3,9 @@ import yaml
 import tqdm
 import argparse
 
+"""
+测试git是否同步更新
+"""
 import numpy as np
 from torch.utils.data import DataLoader
 from torch.cuda.amp import autocast, GradScaler
